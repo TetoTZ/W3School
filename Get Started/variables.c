@@ -15,6 +15,7 @@ int main()
     printf("%s\n", name);
     printf("%s\n", xd);
     printf("%d\n", True);
+    
     printf("my name is %s\n", name);
     printf("my favorite number is %d\n", 35);
     printf("the value of waos is %f\n", 2.00104);
